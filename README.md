@@ -28,10 +28,12 @@ Below is a list of active and completed projects, along with the technologies us
         A predictive analytics project focused on understanding factors that influence work-life balance using a Stacking Model.  
         This project was originally titled <strong>“Work Life Balance with XGBoost”<strong>, but later corrected to reflect the use of a <strong>Stacking Regressor<strong>.
         <br><br>
-        <strong>Tech Stack:<strong>  
-        • Python (Pandas, Scikit-learn, XGBoost, Streamlit)  
-        • seaborn, matplotlib  
-        • joblib  
+        <strong>Tech Stack:<strong> 
+        <ul>
+          <li>Python (Pandas, Scikit-learn, XGBoost, Streamlit)</li>
+          <li>seaborn, matplotlib</li>
+          <li>joblib </li>
+        </ul>
         <strong>Dataset:<strong> wellbeing.csv  
         <strong>Model:<strong> Stacking  
       </td>
@@ -39,8 +41,10 @@ Below is a list of active and completed projects, along with the technologies us
         A statistical and exploratory data analysis project evaluating student satisfaction within a campus canteen environment.  
         The analysis focuses on consumption patterns, service rating, and recommendation insights.
         <br><br>
-        <strong>Tech Stack:<strong>  
-        • R (tidyverse, ggplot2, dplyr, readr, etc.)  
+        <strong>Tech Stack:<strong> 
+        <ul>
+          <li>R (tidyverse, ggplot2, dplyr, readr, etc.)</li>
+        </ul>
         <strong>Tools:<strong> RStudio  
       </td>
     </tr>
@@ -68,9 +72,11 @@ Below is a list of active and completed projects, along with the technologies us
         A personal portfolio website built to showcase ongoing and completed projects. Currently deployed on Vercel.
         <br><br>
         <strong>Tech Stack:<strong>  
-        • HTML, Tailwind CSS  
-        • Next.js  
-        • Vercel  
+        <ul>
+          <li>HTML, Tailwind CSS</li>
+          <li>Next.js</li>
+          <li>Vercel</li>
+        </ul>
       </td>
       <td valign="top">
         Various experiments in machine learning, model tuning, and data visualization.
