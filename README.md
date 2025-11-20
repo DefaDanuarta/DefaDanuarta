@@ -49,8 +49,8 @@ Below is a list of active and completed projects, along with the technologies us
     </tr>
     <!-- LINKS -->
     <tr>
-      <td align="center"><a href="https://github.com/DefaDanuarta/Work-Life-Balance-Stacking-Model">Repository</a></td>
       <td align="center"><a href="https://github.com/DefaDanuarta/Canteen-Satisfaction-Analysis">Repository</a></td>
+      <td align="center"><a href="https://github.com/DefaDanuarta/Work-Life-Balance-Stacking-Model">Repository</a></td>
     </tr>
 
   </tbody>
