@@ -15,10 +15,10 @@ Below is a list of active and completed projects, along with the technologies us
     <!-- IMAGES -->
     <tr>
       <td align="center">
-        <img src="https://github.com/DefaDanuarta/Canteen-Satisfaction-Analysis/blob/9b59624dd1b0e0513b07744d7a3a00e5d5e414bc/thumbnail/r-code-canteen.png" alt="worklife" style="width:100%;height:auto;">
+        <img src="https://github.com/DefaDanuarta/Work-Life-Balance-Stacking-Model/blob/6f972e161d81b23070995995387b03e339125cb4/thumbnail/ml-project-thumbnail.png" alt="worklife" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/DefaDanuarta/Work-Life-Balance-Stacking-Model/blob/6f972e161d81b23070995995387b03e339125cb4/thumbnail/ml-project-thumbnail.png" alt="canteen" style="width:100%;height:auto;">
+        <img src="https://github.com/DefaDanuarta/Canteen-Satisfaction-Analysis/blob/9b59624dd1b0e0513b07744d7a3a00e5d5e414bc/thumbnail/r-code-canteen.png" alt="canteen" style="width:100%;height:auto;">
       </td>
     </tr>
     <!-- DESCRIPTIONS -->
@@ -49,8 +49,8 @@ Below is a list of active and completed projects, along with the technologies us
     </tr>
     <!-- LINKS -->
     <tr>
-      <td align="center"><a href="https://github.com/DefaDanuarta/Canteen-Satisfaction-Analysis">Repository</a></td>
       <td align="center"><a href="https://github.com/DefaDanuarta/Work-Life-Balance-Stacking-Model">Repository</a></td>
+      <td align="center"><a href="https://github.com/DefaDanuarta/Canteen-Satisfaction-Analysis">Repository</a></td>
     </tr>
 
   </tbody>
