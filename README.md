@@ -111,31 +111,3 @@ Away from the data and machine learning peojects, I am still involved in the wor
     </tr>
   </tbody>
 </table>
-
-## 🧪 Additional Projects
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><a>Other Experiments</a></th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/DefaDanuarta/DefaDanuarta/blob/d77bd3a88b89d76699b295edd8527616cb8ce2a5/thumbnail.png" alt="Other" style="width:100%;height:auto;">
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        Various experiments in machine learning, model tuning, and data visualization.
-        <br><br>
-        More projects coming soon.
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/DefaDanuarta?tab=repositories">View All Repo</a></td>
-    </tr>
-  </tbody>
-</table>
