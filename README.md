@@ -1,6 +1,5 @@
-# 🤠 Defa Danuarta
-_Hi there 👋🏻_
-Welcome to my project repository. This space contains a collection of my data, machine learning, and web development projects. Each project represents different skills I have explored, ranging from statistical analysis to machine learning modeling and frontend development.
+# Hi There, Welcome 👋🏻🤠
+This is my project repository. This space contains a collection of my data, machine learning, and web development projects. Each project represents different skills I have explored, ranging from statistical analysis to machine learning modeling and frontend development.
 
 # 🚀 Projects & Tech Stack
 Below is a list of active and completed projects, along with the technologies used in each of them.
@@ -16,10 +15,10 @@ Below is a list of active and completed projects, along with the technologies us
     <!-- IMAGES -->
     <tr>
       <td align="center">
-        <img src="YOUR_WORKLIFE_IMAGE_LINK" alt="worklife" style="width:100%;height:auto;">
+        <img src="https://github.com/DefaDanuarta/Canteen-Satisfaction-Analysis/blob/9b59624dd1b0e0513b07744d7a3a00e5d5e414bc/thumbnail/r-code-canteen.png" alt="worklife" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="YOUR_CANTEEN_IMAGE_LINK" alt="canteen" style="width:100%;height:auto;">
+        <img src="https://github.com/DefaDanuarta/Work-Life-Balance-Stacking-Model/blob/6f972e161d81b23070995995387b03e339125cb4/thumbnail/ml-project-thumbnail.png" alt="canteen" style="width:100%;height:auto;">
       </td>
     </tr>
     <!-- DESCRIPTIONS -->
@@ -34,7 +33,7 @@ Below is a list of active and completed projects, along with the technologies us
           <li>seaborn, matplotlib</li>
           <li>joblib </li>
         </ul>
-        <strong>Dataset:<strong> wellbeing.csv  
+        <strong>Dataset:<strong> wellbeing.csv <br> 
         <strong>Model:<strong> Stacking  
       </td>
       <td valign="top">
@@ -50,8 +49,8 @@ Below is a list of active and completed projects, along with the technologies us
     </tr>
     <!-- LINKS -->
     <tr>
-      <td align="center"><a href="YOUR_WORKLIFE_REPO_LINK">Repository</a></td>
-      <td align="center"><a href="YOUR_CANTEEN_REPO_LINK">Repository</a></td>
+      <td align="center"><a href="https://github.com/DefaDanuarta/Work-Life-Balance-Stacking-Model">Repository</a></td>
+      <td align="center"><a href="https://github.com/DefaDanuarta/Canteen-Satisfaction-Analysis">Repository</a></td>
     </tr>
 
   </tbody>
@@ -66,7 +65,16 @@ Below is a list of active and completed projects, along with the technologies us
       <th width="50%" align="center"><a>Other Experiments</a></th>
     </tr>
   </thead>
+  
   <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/DefaDanuarta/danuarta-portfolio/blob/93116135445a4a2d3f98e5ed03390b47fbba0627/public/assets/porto-thumbnail.png" alt="Portofolio" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/DefaDanuarta/DefaDanuarta/blob/d77bd3a88b89d76699b295edd8527616cb8ce2a5/thumbnail.png" alt="Other" style="width:100%;height:auto;">
+      </td>
+    </tr>
     <tr>
       <td valign="top">
         A personal portfolio website built to showcase ongoing and completed projects. Currently deployed on Vercel.
@@ -85,8 +93,8 @@ Below is a list of active and completed projects, along with the technologies us
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="YOUR_PORTFOLIO_REPO_LINK">Repository</a></td>
-      <td align="center"><a href="#">—</a></td>
+      <td align="center"><a href="https://github.com/DefaDanuarta/danuarta-portfolio">Repository</a></td>
+      <td align="center"><a href="https://github.com/DefaDanuarta?tab=repositories">View All Repo</a></td>
     </tr>
   </tbody>
 </table>
